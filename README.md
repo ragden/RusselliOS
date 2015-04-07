@@ -1,4 +1,4 @@
-# RusselliOS
+# Russell iOS
 Russell its a Framework to make easier use VIPER pattern in iOS apps. This framework propose one way to use this architecture. You can read more information about VIPER in http://www.objc.io/issue-13/viper.html
 
 # What is VIPER?
